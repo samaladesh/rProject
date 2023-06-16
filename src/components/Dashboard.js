@@ -5,7 +5,7 @@ import "../Css/style.css"
 function Dashboard() {
   return (
     <div className='dashboard'>
-      Dashboard
+      Dashboard after new git push
       <p>asdfas dfasdf asdf asdfasdfas dfasdfas dfasdfasdf
             asdfasdfasdfa sdfasdfasdfas dfasdfasdfa sdfasdf
             asdfasd fasdfasdf asdfasdf asdfasdfa sdfasdfasdf
